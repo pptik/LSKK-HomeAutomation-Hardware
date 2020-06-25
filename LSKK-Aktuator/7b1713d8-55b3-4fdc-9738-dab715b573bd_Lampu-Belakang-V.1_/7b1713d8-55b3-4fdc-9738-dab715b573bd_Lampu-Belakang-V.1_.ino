@@ -1,10 +1,10 @@
 /*
     Develop by      : Fahmi Nurfadilah
     Email           : fahmi.nurfadilah1412@gmail.com
-    Updated by      : Vitradisa Pratama
-    Email           : vitradisa@pptik.itb.ac.id
-    Project         : IoT General
-    Version         : 1.2
+    Updated by      : Ary Setijadi Prihatmanto
+    Email           : asetijadi@lskk.ee.itb.ac.id
+    Project         : LSKK Homeautomation
+    Version         : 2.1
 */
 
 #include <PubSubClient.h>
