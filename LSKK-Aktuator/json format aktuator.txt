@@ -1,0 +1,35 @@
+//Kitchen Lamp
+{
+   "serialnumber":"7b1713d8-55b3-4fdc-9738-dab715b573bd",
+   "mac":"BC:DD:C2:16:CE:BD",
+   "type":"DO",
+   "qty":"8",
+   "name":"LSKK-HA-LAMPU",
+   "version":"1.0",
+   "minor":"1.a"
+}
+
+
+
+//Middle Lamp
+{
+   "serialnumber":"5885f13d-c8c5-47a9-9c30-1f606fb83169",
+   "mac":"A0:20:A6:1B:B5: E",
+   "type":"DO",
+   "qty":"8",
+   "name":"LSKK-HA-LAMPU",
+   "version":"1.0",
+   "minor":"1.a"
+}
+
+//3rd Floor Lamp
+
+{
+   "serialnumber":"813b8f84-5e92-462a-a51a-c8e3c017ff28",
+   "mac":"5C:CF:7F:F7:5E:A7",
+   "type":"DO",
+   "qty":"8",
+   "name":"LSKK-HA-LAMPU",
+   "version":"1.0",
+   "minor":"1.a"
+}
